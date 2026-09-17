@@ -1,6 +1,6 @@
 # Runway Style & Color Trend Intelligence
 
-A dual-purpose portfolio project demonstrating both applied AI/data science and business trend-analysis skills, modeled on tools like [Heuritech](https://heuritech.com/) and [Luxurynsight](https://www.luxurynsight.com/). Built end-to-end on a stratified sample of the [Vogue Runway Images Dataset](https://archive.org/details/VogueRunway_dataset) (1.28M images, 1988–2024): image embedding, unsupervised clustering, color extraction, SQL, exploratory analysis, a business taxonomy, an interactive Power BI dashboard, and an Excel trend tracker.
+A dual-purpose portfolio project demonstrating both applied AI/data science and business trend-analysis skills. Built end-to-end on a stratified sample of the [Vogue Runway Images Dataset](https://archive.org/details/VogueRunway_dataset) (1.28M images, 1988–2024): image embedding, unsupervised clustering, color extraction, SQL, exploratory analysis, a business taxonomy, an interactive Power BI dashboard, and an Excel trend tracker.
 
 **Two decades of runway data (2005–2023), one central question:** which style and color trends are genuinely rising or falling — and which apparent "designer reinvention" is actually just the industry moving together?
 
