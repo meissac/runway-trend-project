@@ -1,0 +1,27 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# LaTeX/PDF export intermediates
+*.tex
+*.log
+*.aux
+*_files/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Never commit raw image data or anything derived directly from source photographs
+sample_images/
+sample_images.zip
+*_sanity_check.png
+clip_sanity_check.png
+
+# Working copy of the database created on each notebook run
+runway_trends_local.db

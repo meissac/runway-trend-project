@@ -1,0 +1,10 @@
+cluster,business_name,stage,momentum,evidence,evidence_confidence
+"Colorful prints, resort/eclectic",Eclectic Print Revival,Growing,0.13649,Momentum leader (robust to 2021 exclusion). No verified color signature — orange rejected in Q3.,Momentum: strong. Color identity: not established.
+Dark oversized silhouettes,Structured Volume,Growing,0.065408,Q4 reinvention destination for Christian Dior and Undercover.,Momentum: strong. Designer link: verified.
+Menswear — neutral casual/tailored,Relaxed Tailoring,Growing,0.057423,Verified blue color signature (lift 1.59).,Momentum: strong. Color identity: verified.
+Dark plaid/patterned layered outerwear,Layered Heritage Textures,Gaining,0.037445,Verified blue color signature (lift 1.41).,Momentum: moderate. Color identity: verified.
+Elegant structured eveningwear,Modern Eveningwear,Gaining,0.030392,Q4 reinvention destination for Marni. Color signature (orange/white) rejected in Q3 — lighting contamination.,Momentum: moderate. Color identity: not established.
+Dark sleek edgy silhouettes,Sleek Edge,Stable,0.000502,Verified black color signature (lift 1.20). Designer signature: Jean Paul Gaultier.,Momentum: flat. Color identity: verified. Designer link: verified.
+Feminine formal dresses,Classic Formalwear,Declining,-0.09305,"Q4 reinvention origin for Versace. Designer signature: Elie Saab, Valentino, Christian Dior. Color signature not established.",Momentum: strong decline. Designer link: verified. Color identity: not established.
+Menswear — dark tailoring,Power Tailoring,Declining,-0.114621,"Strongest verified black signature in the dataset (lift 1.32) alongside monochrome. Designer signature: Emporio Armani, Burberry, Louis Vuitton.",Momentum: strong decline. Color identity: verified. Designer link: verified.
+"Dark monochrome, mixed silhouette",Monochrome Statement,Declining,-0.11999,Single strongest verified black signature in the dataset (lift 1.53). Q4 reinvention origin for Moschino.,Momentum: strong decline. Color identity: verified (strongest). Designer link: verified.
